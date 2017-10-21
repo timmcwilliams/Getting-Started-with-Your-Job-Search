@@ -1,0 +1,108 @@
+Tim McWilliams M-W September Class Job Opportunity Profiles  October 7, 2017
+
+The below companies I would be  Interested in working with. Even though some are  looking for intermediate level would hope that with past experience in the business work-place, I could be considered and then on the the interview where I would sell my skills.  (from Glassdoor)
+
+First Opportunity to Target:
+LyntonWeb is looking for a contractor who has immediate bandwidth to take on overflow development work. Please respond with your HubSpot experience and your hourly rate. 
+
+LyntonWeb is a HubSpot agency serving small and midsize businesses with inbound marketing, web development, and marketing integration services. We are looking for a talented HubSpot web developer to join our team. LyntonWeb has employees and offices in Houston, Cleveland, Pittsburgh, and Denver, but we are looking for candidates anywhere in the US with experience working remotely. 
+
+Requirements for a good fit:
+HubSpot COS development experience
+Intermediate / Advanced knowledge of Javascript, JQuery, PHP, HTML, CSS -- if you are lacking in any of these areas you must be eager and willing to learn fast!
+Experience with WordPress and CMS development best practices
+Ability to work on multiple projects
+Comfortable in a fast-paced environment
+Strong desire to learn and be challenged
+Problem solver
+Detail oriented
+High Standard of Excellence
+1-3 years experience
+Additional experience considered a plus but not required:
+Understanding of Inbound Marketing methodologies
+Any other programming knowledge (Python, C#, ASP.NET, XML, and Mobile Apps)
+Other important items:
+Comfortable working in a team or independently
+Good verbal and written communication skills
+Ability to work remotely
+Strong desire to learn and stay at the forefront of web technology
+Not afraid to ask for help when you get stuck
+Agency experience is a plus
+Be utterly passionate about the web!
+
+
+
+
+
+
+
+Next Position Interested in: 
+May be a good fit for this since looks like they are reasonably flexible and would be a good company to start with: - Also from GlassDoor
+Software Developer
+Smith & Associates
+Apply Now
+Save
+Job
+Company
+Rating
+Reviews
+Software Engineer 
+
+Smith & Associates knows electronic components inside and out. As the industry leader in electronic components and supply chain management, we are looking for bright, energetic, and talented people to join our expert international team. We have a dynamic, entrepreneurial culture where individual contributions are expected and valued. 
+
+As a Software Developer, you will be building applications and deliver innovative solution using modern technologies. The Application Development team develops and maintains a wide spectrum of applications to support company’s day-to-day business. 
+Required Skills 
+Day-to-day Responsibilities:
+Develop web applications (front-end and back-end) with focus on usability and scalability based on business requirements
+Production support and trouble-shooting for existing applications
+Work with senior developers in solving new and existing technical issues
+Perform maintenance and development of existing web applications in a multi-tier architecture.
+Build robust, reusable and highly maintainable web services.
+Working with business analysts, functional users and interacting with other developers to translate business requirements into technical ideas and ensure that code functionality meets requirements
+Required Experience 
+Requirements
+Bachelor or Master degree in Computer Science or similar engineering field
+0-3 years of development experience with strong recent experience in web applications
+Need to know Java well and solid understanding in Object-Oriented design principles
+Solid experience with OO driven development and frameworks, JavaScript frameworks such as AngularJS(1 or 2) are highly desired
+Solid experience in HTML, Javascript, CSS and front-end technologies
+Relational Database knowledge and experience
+RESTful API design and implementation experience
+Excellent debugging and problem-solving skills.
+Experience as a SQL developer on relational database, such as Oracle or SQL
+Be willing to help your teammates, share your knowledge, and learn from them. Be open to receiving feedback.
+Pluses
+Responsive UI/UX design, web design or Mobile App development experience
+Hands-on experience with Node.js, MongoDB, Grunt
+Linux scripting skills
+Job Location 
+Houston, TX
+
+Next Job:
+Even though they get a low rating from GlassDoor (2.2) could be a good stepping stone to next level. Remember - It’s not the job you start with but the one you end with.
+Junior Front-End Web Developer
+Apply Now
+Save
+2.2 Integrated Electrical Services, Inc. – Stafford, TX
+Junior Front-End Web Developer
+Integrated Electrical Services, Inc.
+Apply Now
+Save
+Job
+Company
+Rating
+Reviews
+Job Description 
+
+IES Residential is looking for a junior Front-End Web Developer to join our growing IT team. Front-End Web Developer will be responsible for all aspects of design and development for several IES internal IT systems. Please review skills preferred below before applying. 
+
+Responsibilities will include: 
+
+Develop new user-facing features Build reusable code and libraries for future use Optimize application for maximum speed and scalability Collaborate with other team members and stakeholders Maintain IES's web applications and IT systems Prioritize and plan work to accomplish goals Other tasks as needed for successful project completion Qualifications Bachelor's degree in Computer Science or similar/related discipline.1-2 years of front-end or system development experience Proficient understanding of web markup, including HTML5, CSS3Basic understanding of server-side CSS pre-processing platforms, such as LESS and SASS Proficient in one of the programming languages (Preferably JavaScript or C#)Experiences of developing front-end application using modern JavaScript Framework such as Angular.js, React.js, or Vue.js Good understanding of single page web application.Good problem solving skills Good communication skills, both verbal and written.
+PREFERRED SKILLS
+Proficient in .NET development environment and C#/ASP.NET stack Good understanding in web services integration/testing, asynchronous request handling, partial page updates, and AJAX.Experience using code versioning tools, such as Git Experience with Vue.js and Webpack.UX/Graphic design experience.License Required No Minimum Education None Overview 
+
+IES is a national provider of industrial products and infrastructure services to a variety of end markets including electrical and communications contracting solution for the commercial, industrial, residential and renewable energy markets. IES is publicly traded on NASDAQ under the symbol IESC. As of the end of IES's 2015 fiscal year ending September 30, 2015, IES produced over $574 million in revenue and employed close to 3,000 employees at over 60 locations across the United States. From office buildings to wind farms, industrial complexes to housing development, our employees and design professionals design, build, and maintain the systems that empower lives. Our commitment to our employees is reflected by our actions.- Safety is Priority One - and our record shows it- Competitive Pay
+Weekly Pay- Company 401K plan with Employer Contribution Match- Company Paid Time Off- Company Paid Life Insurance- Choice of Medical Coverage including Prescription and Short Term Disability Plans- Choice of Dental and Vision Coverage- Optional Long-term Disability,Critical Illness, Accident, Legal and Pet Coverage- Auto and Home Insurance Discount Programs
+Visit our website at www.iesresidential.com for more information about our company. 
+
